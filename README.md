@@ -8,3 +8,13 @@ All illustrations were created by Tommy P. Keane, unless otherwise noted.
 
 Note that most font-files (typefaces) and photographs are likely from third-parties.
 
+## Rights
+
+Copyright (c) 2020, Tommy P. Keane.
+
+
+## License
+
+See `LICENSE` file.
+
+[by-sa-nc-nd-image]: https://licensebuttons.net/l/by-sa-nc-nd/4.0/88x31.png
