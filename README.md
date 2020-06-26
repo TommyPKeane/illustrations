@@ -8,10 +8,13 @@ All illustrations were created by Tommy P. Keane, unless otherwise noted.
 
 Note that most font-files (typefaces) and photographs are likely from third-parties.
 
+## SVG Files
+
+The SVG images are Inkscape files, so they may not render properly in a generic viewer (like a web-browser). Using Inkscape, you can export / save-as plain versions of the SVG files which would then render properly in most browsers. Inkscape can also export PNG images based on the SVG file.
+
 ## Rights
 
 Copyright (c) 2020, Tommy P. Keane.
-
 
 ## License
 
